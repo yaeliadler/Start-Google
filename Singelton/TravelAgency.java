@@ -7,4 +7,5 @@ public class TravelAgency {
         TAXI,
         BOAT
     }
+
 }
