@@ -1,5 +1,5 @@
 package Singelton;
 
 public interface Agency {
-    void provide();
+    void provideVehicle();
 }
