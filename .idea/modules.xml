@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/start-at-google.iml" filepath="$PROJECT_DIR$/.idea/start-at-google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartAtGoogle.iml" filepath="$PROJECT_DIR$/StartAtGoogle.iml" />
     </modules>
   </component>
 </project>
